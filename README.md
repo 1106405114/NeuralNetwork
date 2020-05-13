@@ -6,6 +6,6 @@
 <a href="https://atcold.github.io/pytorch-Deep-Learning/"> Order 3. DEEP LEARNING, NYU CENTER FOR DATA SCIENCE</a></br>
 <center>
   <h2>CNN Architectures</h2>
-<img src="https://github.com/1106405114/NeuralNetwork/blob/master/img/Diagrams.svg" />
+<img src="https://raw.githubusercontent.com/1106405114/NeuralNetwork/85cc7368321df20bfa6a4e3e460340766ef1842a/img/Diagrams.svg" />
 </center>
 
