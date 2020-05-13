@@ -15,3 +15,7 @@
 <br>
 
 <div class="text-purple">This text is purple, <a href="#" class="text-inherit">including the link</a></div>
+
+<div class="text-purple mb-2">
+  .text-purple
+</div>
