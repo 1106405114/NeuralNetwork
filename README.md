@@ -9,4 +9,5 @@
   <h2 align="center">CNN Architectures</h2>
 <img src="https://raw.githubusercontent.com/1106405114/NeuralNetwork/85cc7368321df20bfa6a4e3e460340766ef1842a/img/Diagrams.svg" />
 </center>
-
+<br>
+<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
