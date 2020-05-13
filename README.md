@@ -2,7 +2,7 @@
 
 <h2>Course</h2>
 <a href="https://www.cs.virginia.edu/~vicente/recognition/"> Order 1. Computational Visual Recognition</a><br>
-<a href="https://fleuret.org/ee559/"> Order 2. EE-559 – DEEP LEARNING</a> <span style="color:red">(Recommend)</span> <br>
+<a href="https://fleuret.org/ee559/"> Order 2. EE-559 – DEEP LEARNING</a> <span class="text-green mb-2 ml-4">(Recommend)</span> <br>
 <a href="https://atcold.github.io/pytorch-Deep-Learning/"> Order 3. DEEP LEARNING, NYU CENTER FOR DATA SCIENCE</a><br>
 <a href="http://cs231n.stanford.edu/">Order 4. Convolutional Neural Networks for Visual Recognition </a><br>
 <center>
